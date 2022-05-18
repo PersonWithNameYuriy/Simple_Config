@@ -23,7 +23,8 @@ programm ignoring all lines, why havent config or have wrong syntaxis
 
 Other
 -----
-You can also run "simple_config_exemple.exe" or compile "simple_config_exemple.c" if you arent using windows. this programm have exemple of reading and writing configuration files, or you can open main module "simple_config" and try to understand what i writed in.
+You can also open "exemples" directory run "simple_config_exemple.exe" or compile "simple_config_exemple.c" if you arent using windows. You can also see and change "config.cnf" file, which used by "simple_config_exemple.c". this programm have exemple of reading and writing configuration files. 
+Or you can open main module "simple_config" and try to understand what i writed in.
 
 Remark
 ------
